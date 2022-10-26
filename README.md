@@ -1,10 +1,13 @@
 # java-fundamentals
 Classwork for all the classes that cover java fundamentals.
 
-## Basics
+## basics.Basics
 
-Basics works with the following concepts
+basics.Basics works with the following concepts
 
 - Random numbers
 - LocalDateTime and timers
 - String Concatination
+
+## Basic Library
+
