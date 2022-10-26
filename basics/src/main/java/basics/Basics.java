@@ -1,9 +1,11 @@
+package basics;
+
 import java.util.Random;
 import java.util.Timer;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class Main {
+public class Basics {
   public static void main(String[] args) {
     
     System.out.println(pluralize("sword", -12));
