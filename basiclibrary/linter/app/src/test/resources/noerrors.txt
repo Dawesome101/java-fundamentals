@@ -1,0 +1,7 @@
+if this is a test then ignore this line
+this is a test, you better believe it;
+this is a test for no errors{
+and it wont have any by the time I'm done with it}
+else I'm not Dan Awesome
+
+k bye;

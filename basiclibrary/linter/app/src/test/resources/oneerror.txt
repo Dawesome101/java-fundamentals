@@ -1,0 +1,13 @@
+this file has only one error;
+;
+It is very good at only having one error{}
+{
+
+}
+
+
+this is the line with the error
+
+else
+
+I'm totally wrong about it having an error at all;();

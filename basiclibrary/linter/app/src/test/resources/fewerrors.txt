@@ -1,0 +1,7 @@
+I've got a few errors
+More than one that is to say
+Many of my errors ; are just purposeful mistakes{}
+Just so that I can test and see
+if my algorithm is working
+
+and it is!
