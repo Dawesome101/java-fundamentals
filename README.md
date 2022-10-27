@@ -7,13 +7,13 @@ Basics works with the following concepts
 
 - Random numbers
 - LocalDateTime and timers
-- String Concatination
+- String Concatenation
 
 ## Basic Library
 
 This module is mainly focused on working with arrays and loops as well as writing test cases for each method.
 
-Files used to generate lab results:
+## Linter
 
-main/java/Library.java
-test/java/LibraryTest.java
+This module is designed to work with ArrayLists, HashSets, HashMaps, File I/O and Exceptions. In addition, test cases were created to verify functionality of each method.
+
