@@ -29,7 +29,7 @@ public class App {
         String voteResults = tally(votes);
         System.out.println(voteResults);
 
-        Path gates = Paths.get("app/src/main/resources/gates.js");
+        Path gates = Paths.get("src/main/resources/gates.js");
         int errorCount = readBufferTryWithResources(gates.toString());
     }
 
