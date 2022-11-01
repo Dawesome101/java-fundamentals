@@ -2,9 +2,7 @@
 
 ## Index
 
-[Home](../README.md)  
-[Linter](linter/README.md)  
-[Purpose](#purpose)
+[Home](../README.md)
 
 ## Purpose
 
