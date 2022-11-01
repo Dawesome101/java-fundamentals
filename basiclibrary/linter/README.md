@@ -2,9 +2,7 @@
 
 ## Index
 
-[Home](../../README.md)  
-[Basic Library](../README.md)  
-[The Linter](#the-linter)
+[Home](../../README.md)
 
 ## The Linter
 

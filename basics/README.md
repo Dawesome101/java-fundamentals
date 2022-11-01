@@ -2,8 +2,7 @@
 
 ## Index
 
-[Home](../README.md)  
-[Purpose](#purpose)
+[Home](../README.md)
 
 ## Purpose
 
